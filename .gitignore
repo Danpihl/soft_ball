@@ -1,0 +1,10 @@
+
+*.avi
+.DS_Store
+
+build
+images
+.vscode
+sphere_subdivision/data
+sphere_subdivision/.vscode
+sphere_subdivision/build
